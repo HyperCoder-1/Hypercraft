@@ -24,3 +24,5 @@ Add (w/ GUI's, stats, textures, etc.)
         Gold
         Diamond
         Netherite
+    Elytra
+
