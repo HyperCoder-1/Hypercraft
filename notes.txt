@@ -1,0 +1,26 @@
+Add (w/ GUI's, stats, textures, etc.)
+    Netherite
+        Armor
+            Chestplate
+            Leggings
+            Boots
+            Helmet
+            Horse Armor
+        Weapons
+            Sword
+        Tools
+            Axe
+            Pickaxe
+            Shovel
+            Hoe
+        Misc
+            Block
+            Item
+            Upgrade Template
+    Spear
+        Wooden
+        Stone
+        Iron
+        Gold
+        Diamond
+        Netherite
