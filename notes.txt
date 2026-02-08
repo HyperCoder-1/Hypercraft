@@ -25,4 +25,21 @@ Add (w/ GUI's, stats, textures, etc.)
         Diamond
         Netherite
     Elytra
+    Diamond
+        Armor
+            Chestplate
+            Leggings
+            Boots
+            Helmet
+            Horse Armor
+        Weapons
+            Sword
+        Tools
+            Axe
+            Pickaxe
+            Shovel
+            Hoe
+        Misc
+            Block
+            Item    
 
