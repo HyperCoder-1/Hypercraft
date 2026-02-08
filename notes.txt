@@ -1,9 +1,7 @@
 Add (w/ GUI's, stats, textures, etc.)
     Items/Blocks (w/ interactions, textures, sounds, etc.)
         Netherite
-    Elytra
-    Diamond
-        Armor
+            Armor
             Chestplate
             Leggings
             Boots
@@ -18,5 +16,25 @@ Add (w/ GUI's, stats, textures, etc.)
             Hoe
         Misc
             Block
-            Item    
-
+            Item
+            Upgrade Template
+        Elytra
+        Diamond
+            Armor
+                Chestplate
+                Leggings
+                Boots
+                Helmet
+                Horse Armor
+            Weapons
+                Sword
+            Tools
+                Axe
+                Pickaxe
+                Shovel
+                Hoe
+            Misc
+                Block
+                Item    
+    Sounds
+        Iron door
